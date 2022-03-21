@@ -1,5 +1,5 @@
 # Generate Technology Hype Cycle Graph From Google Trends
-Generate Hype Cycles like those featured in this blogpost : 
+Generate Hype Cycles like those featured in this blogpost : https://blog.marouni.fr/tech_hypes_cycles/
 
 ## Install Pre-requistes
 * Clone the repository
